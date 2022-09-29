@@ -1,0 +1,38 @@
+
+h1 
+    {font-weight: 100;
+    text-align: center;
+    font-size: 52px;
+    color:rgb(98, 98, 219) ;}
+
+body
+    {padding: 20px;
+    background-color: rgb(241, 224, 202);
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(56, 54, 54)}
+
+.list 
+    {font-size: 34px;
+    text-align: left;}
+
+/* below declarations for subpages */
+img
+    {
+    height: auto;
+    width: 500px;}
+
+    #potato {
+        height: auto;
+        width: 300px;
+    }
+h3 
+    {
+    font-size: 26px;
+    }
+
+p {
+    font-size: 14px;
+    }
+
